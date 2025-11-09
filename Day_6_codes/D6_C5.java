@@ -1,6 +1,6 @@
 /* Question 5 - Target Sum
                 Rohan is given a task two return indices of pair whose sum will be equal to the given target.
-O   nly one such pair is required.
+                Only one such pair is required.
     ****FILE NAME IS GIVEN DIFFERENTLY FOR SORTING OF FILES DAY WISE.***** */
 
 // Answer import java.util.*;
